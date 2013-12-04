@@ -1,4 +1,4 @@
 hydraulic-calculator
 ====================
 
-A simple hydraulic calculator written in C# 
+A simple hydraulic calculator for circular channel pipe written in C# 
